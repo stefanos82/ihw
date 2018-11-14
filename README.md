@@ -29,3 +29,8 @@ Below is a list of series I plan to watch:
     [ ] Real-time Laravel with Socket.io
     [ ] Russian-Doll Caching in Laravel
     [ ] Testing Laravel
+
+### Vue.js
+
+    [ ] Learn Vue 2 - Step by Step
+    [ ] Testing Vue
