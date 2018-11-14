@@ -1,6 +1,6 @@
 # ihw
 
-ihw is a short acronym for "I have watched" and it's my list of watched or to-watch-very-soon programming series, videos, and conference presentations I have personally found interesting and quite educating.
+ihw is a short acronym for "I have watched" and it's my list of watched or to-watch-very-soon programming series, videos, and conference presentations I have personally found interesting and very informative.
 
 Below is a list of series I plan to watch:
 
