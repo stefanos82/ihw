@@ -9,8 +9,8 @@ Below is a list of series I plan to watch:
 ### PHP
 
     [x] 01. The PHP Practitioner
-    [ ] 02. Object-Oriented Bootcamp
-    [ ] 03. How to Build Command-Line Apps
+    [x] 02. Object-Oriented Bootcamp
+    [x] 03. How to Build Command-Line Apps
     [ ] 04. Simple Rules for Simpler Code
     [ ] 05. Whip Monstrous Code Into Shape
     [ ] 06. Design Patterns in PHP
