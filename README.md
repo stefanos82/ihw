@@ -11,7 +11,7 @@ Below is a list of series I plan to watch from Laracasts:
     [x] 01. The PHP Practitioner
     [x] 02. Object-Oriented Bootcamp
     [x] 03. How to Build Command-Line Apps
-    [ ] 04. Simple Rules for Simpler Code
+    [x] 04. Simple Rules for Simpler Code
     [ ] 05. Whip Monstrous Code Into Shape
     [ ] 06. Design Patterns in PHP
     [ ] 07. SOLID Principles in PHP
