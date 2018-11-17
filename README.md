@@ -4,7 +4,7 @@ ihw stands for "I have watched" and it's my list of watched or
 to-watch-very-soon programming series, videos, and conference presentations 
 I have personally found interesting.
 
-Below is a list of series I plan to watch:
+Below is a list of series I plan to watch from Laracasts:
 
 ### PHP
 
@@ -47,3 +47,8 @@ Below is a list of series I plan to watch:
 
     [ ] Learn Vue 2 - Step by Step
     [ ] Testing Vue
+
+### Various
+
+    [ ] CSS Grids for Everyone
+    [x] Git Me Some Version Control
