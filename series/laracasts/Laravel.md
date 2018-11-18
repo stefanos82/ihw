@@ -21,3 +21,5 @@
     [x] 19. Laravel Nova Mastery
     [ ] 20. How to Create Custom Laravel Presets
     [ ] 21. How to Accept Payments
+
+Back to [README](../../README.md) page
