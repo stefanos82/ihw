@@ -1,20 +1,3 @@
-# Laracasts
-
-Below is a list of series I plan to watch from Laracasts:
-
-### PHP
-
-    [x] 01. The PHP Practitioner
-    [x] 02. Object-Oriented Bootcamp
-    [x] 03. How to Build Command-Line Apps
-    [x] 04. Simple Rules for Simpler Code
-    [ ] 05. Whip Monstrous Code Into Shape
-    [ ] 06. Design Patterns in PHP
-    [ ] 07. SOLID Principles in PHP
-    [x] 08. Code Reflections
-    [ ] 09. Whatcha Working On
-
-    
 ### Laravel
     
     [x] 01. Laravel 5.7 from Scratch
@@ -38,13 +21,3 @@ Below is a list of series I plan to watch from Laracasts:
     [x] 19. Laravel Nova Mastery
     [ ] 20. How to Create Custom Laravel Presets
     [ ] 21. How to Accept Payments
-
-### Vue.js
-
-    [ ] Learn Vue 2 - Step by Step
-    [ ] Testing Vue
-
-### Various
-
-    [ ] CSS Grids for Everyone
-    [x] Git Me Some Version Control
