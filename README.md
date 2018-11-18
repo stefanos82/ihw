@@ -15,7 +15,7 @@ Below is a list of series I plan to watch from Laracasts:
     [ ] 05. Whip Monstrous Code Into Shape
     [ ] 06. Design Patterns in PHP
     [ ] 07. SOLID Principles in PHP
-    [ ] 08. Code Reflections
+    [x] 08. Code Reflections
     [ ] 09. Whatcha Working On
 
     
