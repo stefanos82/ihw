@@ -4,7 +4,7 @@
 | :-----: | :----------- | -------: |
 |``[x]``|01. Laravel 5.7 from Scratch|04:34:05|
 |``[x]``|02. Intermediate Laravel|02:32:56|
-|``[ ]``|03. Advanced Eloquent|00:58:59|
+|``[x]``|03. Advanced Eloquent|00:58:59|
 |``[ ]``|04. Eloquent Techniques|00:50:50|
 |``[ ]``|05. Eloquent Relationships|01:25:46|
 |``[ ]``|06. Laravel Authentication Techniques|00:52:32|
