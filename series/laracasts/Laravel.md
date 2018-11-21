@@ -10,7 +10,7 @@
 |``[ ]``|06. Laravel Authentication Techniques|00:52:32|
 |``[ ]``|07. Testing Laravel|04:12:51|
 |``[ ]``|08. Learn Laravel Forge|01:31:55|
-|``[ ]``|09. Discover Symfony Components|00:45:16|
+|``[x]``|09. Discover Symfony Components|00:45:16|
 |``[ ]``|10. Real-time Laravel with Socket.io|00:41:29|
 |``[ ]``|11. Let's Build A Forum with Laravel and TDD|19:29:27|
 |``[ ]``|12. How to Manage an Open Source Project|04:42:40|
