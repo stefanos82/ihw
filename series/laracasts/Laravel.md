@@ -6,7 +6,7 @@
 |``[x]``|02. Intermediate Laravel|02:32:56|
 |``[x]``|03. Advanced Eloquent|00:58:59|
 |``[x]``|04. Eloquent Techniques|00:50:50|
-|``[ ]``|05. Eloquent Relationships|01:25:46|
+|``[x]``|05. Eloquent Relationships|01:25:46|
 |``[ ]``|06. Laravel Authentication Techniques|00:52:32|
 |``[ ]``|07. Testing Laravel|04:12:51|
 |``[ ]``|08. Learn Laravel Forge|01:31:55|
