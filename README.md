@@ -12,6 +12,4 @@ Below is a list of series I plan to watch from Laracasts:
 
 [Laravel](series/laracasts/Laravel.md)    
 
-[Vue.js](series/laracasts/Vue.md)
-
 [Various](series/laracasts/Various.md)
