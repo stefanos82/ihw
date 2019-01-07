@@ -6,7 +6,7 @@
 |``[x]``|02. Object-Oriented Bootcamp|02:00:55|
 |``[x]``|03. How to Build Command-Line Apps|00:46:04|
 |``[x]``|04. Simple Rules for Simpler Code|00:53:58|
-|``[ ]``|05. Whip Monstrous Code Into Shape|03:53:23|
+|``[x]``|05. Whip Monstrous Code Into Shape|03:53:23|
 |``[x]``|06. Design Patterns in PHP|01:44:26|
 |``[x]``|07. SOLID Principles in PHP|00:56:34|
 |``[x]``|08. Code Reflections|00:54:43|
